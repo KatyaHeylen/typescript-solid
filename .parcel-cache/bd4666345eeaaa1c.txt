@@ -1,4 +1,4 @@
-16093
+16107
 109C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\modules\esnext.string.at-alternative.js132838654815521349 0
 97C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2019\thisStringValue.js132838654822572055 0
 68C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\base-x132838654718319069 1
@@ -48,7 +48,7 @@
 82C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\stealthy-require\lib132838654645815090 1
 69C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js132838654858756652 1
 110C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\typescript\loc\lcl\CSY\TypeScriptLanguageService132838648960412642 1
-54C:\Users\ezhgu\Documents\GitHub\typescript-solid\.idea132839658728791766 1
+54C:\Users\ezhgu\Documents\GitHub\typescript-solid\.idea132839706986063545 1
 73C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\yaml\seq.js132838654728319973 0
 85C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\@parcel\types\unsafe.js132838654719565394 0
 103C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\public-encrypt\node_modules\bn.js\LICENSE132838654740154940 0
@@ -94,7 +94,7 @@
 80C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\.package-lock.json132838655810187407 0
 75C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\function-bind132838654648043466 1
 94C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\regexp\split.js132838654850837974 0
-52C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O132839661849812815 1
+52C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O132839705783304676 1
 81C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\fp\isDate.js132838654811793657 0
 128C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\postcss-modules\node_modules\source-map\dist\source-map.min.js.map132838654705385024 0
 84C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\reusify\.coveralls.yml132838654635978403 0
@@ -172,6 +172,7 @@
 106C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\postcss-modules\node_modules\postcss\LICENSE132838654634993734 0
 70C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\@nodelib132838654580066914 1
 71C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\@trysound132838654579911852 1
+62C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Parrot.ts132839705783015687 0
 78C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\follow-redirects132838654681588021 1
 107C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js132838654738962982 0
 88C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\postcss\lib\stringifier.js132838654743227571 0
@@ -2921,6 +2922,7 @@
 111C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\jsdom\lib\jsdom\living\nodes\DOMTokenList-impl.js132838654802833738 0
 85C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\weak-lru-cache\index.js132838654670232294 0
 98C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2021\FlattenIntoArray.js132838654796586790 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Dog.js132839706004247939 0
 85C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2021\Set.js132838654818702459 0
 92C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\postcss-normalize-unicode\dist132838654673926442 1
 89C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\weak-lru-cache\package.json132838654680922902 0
@@ -5379,6 +5381,7 @@
 84C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\object-inspect\.github132838654721470610 1
 79C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\reusify\README.md132838654640661885 0
 106C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\icss-utils\node_modules\postcss\lib\parse.js132838654658090181 0
+62C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Animal.ts132839705783082634 0
 80C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\reusify\reusify.js132838654642190624 0
 79C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lowlight\index.js132838654673149889 0
 87C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\reusify\benchmarks\fib.js132838654646103515 0
@@ -7964,6 +7967,7 @@
 76C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\cond.js132838654803085070 0
 80C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\constant.js132838654803458703 0
 88C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\fp\_falseOptions.js132838654786790808 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Zoo.js132839706004198664 0
 76C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\core.js132838654803761681 0
 79C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\countBy.js132838654803930328 0
 78C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\filter.js132838654807304114 0
@@ -8121,7 +8125,7 @@
 96C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2019\CharacterRange.js132838654776906058 0
 76C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\LICENSE132838654634535739 0
 82C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\lodash.min.js132838654814691025 0
-68C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\dist\index.html132839659129858653 0
+68C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\dist\index.html132839700358193215 0
 75C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\lte.js132838654814854206 0
 90C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2018\IsRegExp.js132838654809317907 0
 79C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\mapKeys.js132838654814942725 0
@@ -8408,7 +8412,7 @@
 81C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\_basePick.js132838654764130833 0
 89C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\es\number\is-nan.js132838654831540992 0
 85C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\_baseProperty.js132838654764899560 0
-68C:\Users\ezhgu\Documents\GitHub\typescript-solid\.idea\workspace.xml132839658728775003 0
+68C:\Users\ezhgu\Documents\GitHub\typescript-solid\.idea\workspace.xml132839706986040204 0
 94C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\asn1.js\lib\asn1\encoders\der.js132838654685882269 0
 93C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\stable\function\virtual132838654829152436 1
 89C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\_basePropertyDeep.js132838654765384137 0
@@ -8969,7 +8973,7 @@
 79C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\is-number\LICENSE132838654637130541 0
 104C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2015\OrdinaryGetOwnProperty.js132838654814638671 0
 81C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\fp\random.js132838654818745748 0
-59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\new.ts132839661849802810 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\new.ts132839699448253049 0
 80C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\fp\range.js132838654818795766 0
 84C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\fp\rangeStep.js132838654818926066 0
 89C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\lodash\fp\rangeStepRight.js132838654818946077 0
@@ -9619,7 +9623,7 @@
 102C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\jsdom\lib\jsdom\living\generated\Attr.js132838654761290909 0
 108C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\jsdom\lib\jsdom\living\generated\BinaryType.js132838654762538519 0
 102C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\jsdom\lib\jsdom\living\generated\Blob.js132838654763799000 0
-57C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\dist132839661586333586 1
+57C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\dist132839705197390001 1
 80C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\async\lib\async.js132838654685170948 0
 113C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\jsdom\lib\jsdom\living\generated\BlobPropertyBag.js132838654764287911 0
 110C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\jsdom\lib\jsdom\living\generated\CDATASection.js132838654765055684 0
@@ -11416,6 +11420,7 @@
 96C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2020\IsStringPrefix.js132838654809790257 0
 93C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\caniuse-lite\data\regions\MY.js132838654812082639 0
 111C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2020\IsUnclampedIntegerElementType.js132838654809876481 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Cat.js132839706004288660 0
 90C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\date\now.js132838654838366787 0
 85C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\des.js\test\ede-test.js132838654713988763 0
 103C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\es-abstract\2020\IsUnsignedElementType.js132838654809923571 0
@@ -13065,6 +13070,7 @@
 101C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\stable\dom-collections\index.js132838654829127427 0
 82C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\es\escape.js132838654811500635 0
 104C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\stable\dom-collections\iterator.js132838654833766014 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Cat.ts132839705783294770 0
 98C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\stable\date\to-gmt-string.js132838654853469047 0
 95C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\stable\data-view\index.js132838654829080913 0
 104C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\stable\array-buffer\constructor.js132838654791300794 0
@@ -13634,6 +13640,7 @@
 96C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\symbol\matcher.js132838654837308525 0
 97C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\symbol\metadata.js132838654837710159 0
 102C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\symbol\pattern-match.js132838654841567721 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Zoo.ts132839686579580267 0
 74C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\asynckit\lib132838654681415581 1
 100C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\symbol\replace-all.js132838654845887665 0
 96C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\symbol\replace.js132838654846339327 0
@@ -13883,6 +13890,7 @@
 96C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\array\includes.js132838654825719539 0
 96C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\array\index-of.js132838654826281609 0
 93C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\array\index.js132838654827400113 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Dog.ts132839705783152297 0
 120C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json132838654797502400 0
 106C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\array\is-template-object.js132838654832347230 0
 92C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\core-js\features\array\join.js132838654834092063 0
@@ -14280,6 +14288,7 @@
 93C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\chrome-trace-event\package.json132838654636496863 0
 90C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\chrome-trace-event\README.md132838654641275559 0
 104C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\chrome-trace-event\dist\trace-event.js.map132838654637996493 0
+75C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\dist\index.2bafe75d.js132839705197340000 0
 80C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\chalk\package.json132838654641568089 0
 77C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\chalk\readme.md132838654642839596 0
 83C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\chalk\source\index.js132838654636405955 0
@@ -14297,7 +14306,7 @@
 104C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\@parcel\transformer-babel\lib\constants.js132838654737781882 0
 100C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\caniuse-lite\dist\unpacker\features.js132838654802102791 0
 88C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\caniuse-lite\dist\unpacker132838654815094864 1
-63C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\index.html132839658721100230 0
+63C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\index.html132839700351717986 0
 99C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\caniuse-lite\dist\unpacker\feature.js132838654801877492 0
 97C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\caniuse-lite\dist\unpacker\index.js132838654806936896 0
 98C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\caniuse-lite\dist\unpacker\region.js132838654815110131 0
@@ -16082,7 +16091,12 @@
 76C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\.bin\uncss.ps1132838655781353678 0
 72C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\.bin\which132838655781353678 0
 76C:\Users\ezhgu\Documents\GitHub\typescript-solid\node_modules\.bin\which.cmd132838655781343680 0
-59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\new.js132839661822600525 0
+62C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Animal.js132839706004138663 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Fox.js132839706004347953 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Fox.ts132839705783224907 0
+59C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\new.js132839706004401146 0
+62C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\Parrot.js132839706004318673 0
+79C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\dist\index.2bafe75d.js.map132839705197369999 0
 79C:\Users\ezhgu\Documents\GitHub\typescript-solid\1.O\dist\index.ac17ba37.js.map132839661586319014 0
 60C:\Users\ezhgu\Documents\GitHub\typescript-solid\0.S\car.png132838684545977040 0
 63C:\Users\ezhgu\Documents\GitHub\typescript-solid\0.S\index.html132839550902432327 0
